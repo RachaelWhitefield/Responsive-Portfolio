@@ -234,5 +234,13 @@ input[type=submit] {
   .auth-image {
     width: 100%;
   }
+
+  .work {
+    width: 100%;
+  }
   
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
 }
