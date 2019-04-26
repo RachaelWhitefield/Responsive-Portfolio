@@ -225,6 +225,9 @@ input[type=submit] {
   }
   nav {
     margin-right: 28%;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 
   #main-container {
