@@ -286,4 +286,9 @@ input[type=submit] {
     list-style: none;
     padding-inline-start: 0px;
   }
+
+  .work {
+    width: 255px;
+    margin-right: 40px;
+  }
 }
